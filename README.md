@@ -6,7 +6,7 @@ Understanding what content is available on Netflix.
 Identifying similar content by matching text-based features.
 Is Netflix has increasingly focusing on TV rather than Movies in recent years.
 
-#### Technology used :
+## Technology used :
 Python, Jupyter Notebook, Numpy, Pandas, Seaborn.
 
 # Dataset link : https://www.kaggle.com/shivamb/netflix-shows/data
